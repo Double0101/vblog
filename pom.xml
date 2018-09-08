@@ -24,6 +24,8 @@
         <module>service-ribbon</module>
         <module>service-feign</module>
         <module>service-zuul</module>
+        <module>service-lucy</module>
+        <module>service-turbine</module>
     </modules>
 
     <properties>
